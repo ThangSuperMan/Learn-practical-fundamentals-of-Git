@@ -10,5 +10,5 @@ func main() {
 	fmt.Println("hello")
 	fmt.Println("modified")
 	result := sum(1, 2)
-	fmt.Println("result", result)
+	fmt.Println("result: ", result)
 }
