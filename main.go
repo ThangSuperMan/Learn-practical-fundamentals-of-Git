@@ -12,5 +12,6 @@ func main() {
 	result := sum(1, 2)
 	fmt.Println("result: ", result)
 	fmt.Println("number five")
-	fmt.Println("number six")
+	fmt.Println("number seven")
+	fmt.Println("number eight")
 }
